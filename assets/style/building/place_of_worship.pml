@@ -5,7 +5,7 @@
 @name "place of worship";
 
 @meta {
-	buildingUse: appartments;
+	buildingUse: cathedral;
 	buildingLaf: modern;
 	height: "high rise";
 }
@@ -13,7 +13,7 @@
 footprint {
 	height: attr("height");
 	minHeight: attr("min_height");
-	numLevels: 1;
+	numLevels: 2;
 	//topHeight: 0.;
 	roofShape: attr("roof:shape") | flat;
 	roofHeight: attr("roof:height");
@@ -29,7 +29,7 @@ footprint {
 facade 
 [item.footprint["buildingPart"] == "cube"]
 {
-	numLevels: 2;	
+	claddingColor: blue;	
 	markup: [
                 level{
                     claddingColor: yellow;
@@ -71,18 +71,10 @@ facade
 	claddingColor: blue;
 }
 
-facade 
-[item.footprint["buildingPart"] == "tholobate"]
-{
-	markup:[
-		level {
-                    indices : (0, 0);
-                    claddingColor: blue;
-                   
-
-                }
-	]
-	
+facade
+[item.footprint["buildingPart"] == "tholobate"] {
+        claddingColor: blue;
+	class: tholobate;
 }
 
 //Unknown facade
