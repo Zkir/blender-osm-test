@@ -13,8 +13,6 @@ print("osm2blender scripts, (c) Zkir 2018")
 #we obtain them from blender command line
 strInputFileName=sys.argv[5] 
 
-
-
 #WorkDir = os.getcwd(strInputFileName)
 #WorkDir = os.path.dirname(strInputFileName)
 WorkDir = sys.argv[6]
@@ -48,19 +46,19 @@ print(strX3dFileName)
 #bpy.ops.object.mode_set(mode='OBJECT') 
 bpy.ops.object.select_all(action='SELECT')
 bpy.ops.object.delete(use_global=False)
-bpy.data.scenes["Scene"].blender_osm.osmSource = 'file'
-bpy.data.scenes["Scene"].blender_osm.highways = False
-bpy.data.scenes["Scene"].blender_osm.vegetation = False
-bpy.data.scenes["Scene"].blender_osm.osmFilepath = strInputFileName
-bpy.data.scenes["Scene"].blender_osm.singleObject = False
+bpy.data.scenes["Scene"].blosm.osmSource = 'file'
+bpy.data.scenes["Scene"].blosm.highways = False
+bpy.data.scenes["Scene"].blosm.vegetation = False
+bpy.data.scenes["Scene"].blosm.osmFilepath = strInputFileName
+bpy.data.scenes["Scene"].blosm.singleObject = False
 
-bpy.data.scenes["Scene"].blender_osm.mode = '3Drealistic'
+bpy.data.scenes["Scene"].blosm.mode = '3Drealistic'
 
 #we need to make the process deterministic
 random.seed(0)
 
 #run the blender-osm plug-in
-bpy.ops.blender_osm.import_data()
+bpy.ops.blosm.import_data()
 
 
 #===============================================================

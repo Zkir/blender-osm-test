@@ -3,7 +3,7 @@
 <X3D version="3.0" profile="Immersive" xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" xsd:noNamespaceSchemaLocation="http://www.web3d.org/specifications/x3d-3.0.xsd">
 	<head>
 		<meta name="filename" content="Church-vozdvizhenskoe.x3d" />
-		<meta name="generator" content="Blender 2.81 (sub 16)" />
+		<meta name="generator" content="Blender 2.83.3" />
 	</head>
 	<Scene>
 		<NavigationInfo headlight="true"

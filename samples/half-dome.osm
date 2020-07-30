@@ -89,13 +89,13 @@
     <tag k='roof:height' v='3' />
     <tag k='roof:shape' v='onion' />
   </way>
-  <way id='555704995' timestamp='2018-02-05T22:17:15Z' uid='100812' user='Zkir' visible='true' version='2' changeset='56099125'>
+  <way id='555704995' action='modify' timestamp='2018-02-05T22:17:15Z' uid='100812' user='Zkir' visible='true' version='2' changeset='56099125'>
     <nd ref='5360921813' />
     <nd ref='5360921812' />
     <nd ref='5360921811' />
     <nd ref='5360921810' />
     <nd ref='5360921813' />
-    <tag k='building:part' v='yes' />
+    <tag k='building:part' v='tholobate' />
     <tag k='height' v='21' />
     <tag k='min_height' v='13' />
     <tag k='roof:height' v='3' />
@@ -179,7 +179,7 @@
     <nd ref='5360922440' />
     <nd ref='5360922439' />
   </way>
-  <way id='558917403' timestamp='2018-02-05T22:17:15Z' uid='100812' user='Zkir' visible='true' version='1' changeset='56099125'>
+  <way id='558917403' action='modify' timestamp='2018-02-05T22:17:15Z' uid='100812' user='Zkir' visible='true' version='1' changeset='56099125'>
     <nd ref='5391068338' />
     <nd ref='5391068337' />
     <nd ref='5391068336' />
@@ -189,7 +189,7 @@
     <nd ref='5391068332' />
     <nd ref='5391068331' />
     <nd ref='5391068338' />
-    <tag k='building:part' v='yes' />
+    <tag k='building:part' v='tholobate' />
     <tag k='height' v='20' />
     <tag k='min_height' v='16.5' />
     <tag k='roof:height' v='1' />
