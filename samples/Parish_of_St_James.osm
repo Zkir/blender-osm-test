@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <bounds minlat='46.9509517' minlon='142.7470335' maxlat='46.9511651' maxlon='142.7475275' origin='CGImap 0.8.2 (2040 thorn-01.openstreetmap.org)' />
+  <node id='-104718' action='modify' visible='true' lat='46.95108322666' lon='142.74753547387' />
+  <node id='-104725' action='modify' visible='true' lat='46.95114435139' lon='142.74726670634' />
+  <node id='-104739' action='modify' visible='true' lat='46.95115578329' lon='142.74745220532' />
+  <node id='-104740' action='modify' visible='true' lat='46.95100252637' lon='142.74748169786' />
+  <node id='-104772' action='modify' visible='true' lat='46.95113938754' lon='142.74726766566' />
+  <node id='-104779' action='modify' visible='true' lat='46.95098599356' lon='142.74729731847' />
+  <node id='1013038354' action='modify' timestamp='2018-11-07T13:29:19Z' uid='2635538' user='Serzhanya' visible='true' version='4' changeset='64262223' lat='46.95115959576' lon='142.74749206513' />
+  <node id='1013038360' action='modify' timestamp='2018-11-07T13:29:19Z' uid='2635538' user='Serzhanya' visible='true' version='4' changeset='64262223' lat='46.95112336529' lon='142.74703366894' />
+  <node id='1013038363' action='modify' timestamp='2018-11-07T13:29:19Z' uid='2635538' user='Serzhanya' visible='true' version='4' changeset='64262223' lat='46.9509591219' lon='142.74706541084' />
+  <node id='1013038364' action='modify' timestamp='2018-11-07T13:29:19Z' uid='2635538' user='Serzhanya' visible='true' version='4' changeset='64262223' lat='46.95100621085' lon='142.74752181804' />
+  <node id='6044038008' timestamp='2018-11-07T13:29:01Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223' lat='46.9509186' lon='142.7471847' />
+  <node id='6044038011' action='modify' timestamp='2018-11-07T13:29:01Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223' lat='46.95096157019' lon='142.74717610576'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6044038012' action='modify' timestamp='2018-11-07T13:29:01Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223' lat='46.95096419177' lon='142.74720521666' />
+  <node id='6044038013' action='modify' timestamp='2018-11-07T13:29:01Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223' lat='46.95095894071' lon='142.7471469072' />
+  <node id='6044038014' action='modify' timestamp='2018-11-07T13:29:01Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223' lat='46.9509663324' lon='142.74714547867' />
+  <node id='6044038015' action='modify' timestamp='2018-11-07T13:29:01Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223' lat='46.95097158346' lon='142.74720378813' />
+  <node id='6044038016' action='modify' timestamp='2018-11-07T13:29:01Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223' lat='46.95109770944' lon='142.74752456446' />
+  <node id='6044038017' action='modify' timestamp='2018-11-07T13:29:01Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223' lat='46.9510665568' lon='142.74753058507' />
+  <node id='6044038018' action='modify' timestamp='2018-11-07T13:29:01Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223' lat='46.95106474849' lon='142.74751050498' />
+  <node id='6044038019' action='modify' timestamp='2018-11-07T13:29:01Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223' lat='46.95109589144' lon='142.74750437673' />
+  <node id='6044038020' action='modify' timestamp='2018-11-07T13:29:01Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223' lat='46.95095533209' lon='142.74730324414' />
+  <node id='6044038021' action='modify' timestamp='2018-11-07T13:29:01Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223' lat='46.9509516809' lon='142.74726270013' />
+  <node id='6044038022' action='modify' timestamp='2018-11-07T13:29:01Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223' lat='46.95097645756' lon='142.74725791176' />
+  <node id='6044038023' action='modify' timestamp='2018-11-07T13:29:01Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223' lat='46.95098010875' lon='142.74729845578' />
+  <way id='-103090' action='modify' visible='true'>
+    <nd ref='6044038014' />
+    <nd ref='6044038013' />
+    <nd ref='6044038011' />
+    <nd ref='6044038012' />
+    <nd ref='6044038015' />
+  </way>
+  <way id='-103096' action='modify' visible='true'>
+    <nd ref='6044038014' />
+    <nd ref='6044038015' />
+  </way>
+  <way id='-103256' action='modify' visible='true'>
+    <nd ref='-104739' />
+    <nd ref='-104740' />
+  </way>
+  <way id='-103458' action='modify' visible='true'>
+    <nd ref='6044038022' />
+    <nd ref='6044038021' />
+    <nd ref='6044038020' />
+    <nd ref='6044038023' />
+  </way>
+  <way id='-103460' action='modify' visible='true'>
+    <nd ref='-104725' />
+    <nd ref='1013038360' />
+    <nd ref='1013038363' />
+    <nd ref='6044038014' />
+  </way>
+  <way id='-103508' action='modify' visible='true'>
+    <nd ref='-104772' />
+    <nd ref='-104779' />
+  </way>
+  <way id='-103519' action='modify' visible='true'>
+    <nd ref='-104739' />
+    <nd ref='-104772' />
+  </way>
+  <way id='-103530' action='modify' visible='true'>
+    <nd ref='-104772' />
+    <nd ref='-104725' />
+  </way>
+  <way id='-103542' action='modify' visible='true'>
+    <nd ref='-104779' />
+    <nd ref='-104740' />
+  </way>
+  <way id='-103596' action='modify' visible='true'>
+    <nd ref='6044038023' />
+    <nd ref='6044038022' />
+  </way>
+  <way id='-103610' action='modify' visible='true'>
+    <nd ref='6044038015' />
+    <nd ref='6044038022' />
+  </way>
+  <way id='-103612' action='modify' visible='true'>
+    <nd ref='6044038023' />
+    <nd ref='-104779' />
+  </way>
+  <way id='-103790' action='modify' visible='true'>
+    <nd ref='6044038019' />
+    <nd ref='1013038354' />
+    <nd ref='-104739' />
+  </way>
+  <way id='-103803' action='modify' visible='true'>
+    <nd ref='-104740' />
+    <nd ref='1013038364' />
+    <nd ref='6044038018' />
+  </way>
+  <way id='-103818' action='modify' visible='true'>
+    <nd ref='6044038019' />
+    <nd ref='6044038018' />
+  </way>
+  <way id='87103563' action='modify' timestamp='2018-11-07T13:29:25Z' uid='2635538' user='Serzhanya' visible='true' version='6' changeset='64262223'>
+    <nd ref='6044038018' />
+    <nd ref='6044038017' />
+    <nd ref='-104718' />
+    <nd ref='6044038016' />
+    <nd ref='6044038019' />
+  </way>
+  <way id='641875691' timestamp='2018-11-07T13:29:07Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223'>
+    <nd ref='6044038008' />
+    <nd ref='6044038011' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+  </way>
+  <way id='641875693' action='delete' timestamp='2018-11-07T13:29:07Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223'>
+    <tag k='building:levels' v='1' />
+    <tag k='building:part' v='yes' />
+    <tag k='roof:shape' v='half-dome' />
+  </way>
+  <way id='641875694' action='delete' timestamp='2018-11-07T13:29:07Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223'>
+    <tag k='building:levels' v='2' />
+    <tag k='building:part' v='yes' />
+  </way>
+  <way id='641875695' action='delete' timestamp='2018-11-07T13:29:07Z' uid='2635538' user='Serzhanya' visible='true' version='1' changeset='64262223'>
+  </way>
+  <relation id='-99784' action='modify' visible='true'>
+    <member type='way' ref='-103460' role='outer' />
+    <member type='way' ref='-103530' role='outer' />
+    <member type='way' ref='-103519' role='outer' />
+    <member type='way' ref='-103790' role='outer' />
+    <member type='way' ref='87103563' role='outer' />
+    <member type='way' ref='-103803' role='outer' />
+    <member type='way' ref='-103542' role='outer' />
+    <member type='way' ref='-103612' role='outer' />
+    <member type='way' ref='-103458' role='outer' />
+    <member type='way' ref='-103610' role='outer' />
+    <member type='way' ref='-103090' role='outer' />
+    <tag k='addr:city' v='Южно-Сахалинск' />
+    <tag k='addr:housenumber' v='26Б' />
+    <tag k='addr:street' v='проспект Победы' />
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='building' v='cathedral' />
+    <tag k='building:levels' v='2' />
+    <tag k='denomination' v='catholic' />
+    <tag k='name' v='Приход Святого Иакова' />
+    <tag k='name:en' v='Parish of St. James' />
+    <tag k='name:ru' v='Приход Святого Иакова' />
+    <tag k='religion' v='christian' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='-99786' action='modify' visible='true'>
+    <member type='way' ref='-103090' role='outer' />
+    <member type='way' ref='-103096' role='outer' />
+    <tag k='building:levels' v='2' />
+    <tag k='building:part' v='yes' />
+    <tag k='roof:orientation' v='across' />
+    <tag k='roof:shape' v='gabled' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='-99793' action='modify' visible='true'>
+    <member type='way' ref='-103256' role='outer' />
+    <member type='way' ref='-103803' role='outer' />
+    <member type='way' ref='-103818' role='outer' />
+    <member type='way' ref='-103790' role='outer' />
+    <tag k='building:levels' v='2' />
+    <tag k='building:part' v='yes' />
+    <tag k='roof:shape' v='basilical' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='-99795' action='modify' visible='true'>
+    <member type='way' ref='-103508' role='outer' />
+    <member type='way' ref='-103542' role='outer' />
+    <member type='way' ref='-103256' role='outer' />
+    <member type='way' ref='-103519' role='outer' />
+    <tag k='building:levels' v='2' />
+    <tag k='building:part' v='yes' />
+    <tag k='roof:orientation' v='across' />
+    <tag k='roof:shape' v='gabled' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='-99800' action='modify' visible='true'>
+    <member type='way' ref='-103508' role='outer' />
+    <member type='way' ref='-103612' role='outer' />
+    <member type='way' ref='-103596' role='outer' />
+    <member type='way' ref='-103610' role='outer' />
+    <member type='way' ref='-103096' role='outer' />
+    <member type='way' ref='-103460' role='outer' />
+    <member type='way' ref='-103530' role='outer' />
+    <tag k='building:levels' v='2' />
+    <tag k='building:part' v='yes' />
+    <tag k='roof:shape' v='flat' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='-99807' action='modify' visible='true'>
+    <member type='way' ref='-103458' role='outer' />
+    <member type='way' ref='-103596' role='outer' />
+    <tag k='building:levels' v='4' />
+    <tag k='building:part' v='yes' />
+    <tag k='roof:height' v='7' />
+    <tag k='roof:shape' v='pyramidal' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='-99818' action='modify' visible='true'>
+    <member type='way' ref='-103818' role='outer' />
+    <member type='way' ref='87103563' role='outer' />
+    <tag k='building:levels' v='1' />
+    <tag k='building:part' v='apse' />
+    <tag k='roof:shape' v='half-dome' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+</osm>
